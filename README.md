@@ -1,4 +1,4 @@
-# 🌦️ Weather Checker CLI – Open-Meteo API Project
+#Weather Checker CLI – Open-Meteo API Project
 
 This is a Python project that fetches and displays real-time weather information for any city using the [Open-Meteo API](https://open-meteo.com/) and geocoding from the `geopy` library.
 
@@ -6,7 +6,7 @@ The script prompts the user to enter a city name, converts that city to geograph
 
 ---
 
-## 🚀 Features
+##Features
 
 - 🔍 Convert any city name into latitude & longitude using `geopy`
 - ☁️ Retrieve current weather conditions using Open-Meteo’s free public API
@@ -15,7 +15,7 @@ The script prompts the user to enter a city name, converts that city to geograph
 
 ---
 
-## 📸 Example Output
+##Example Output
 
 Welcome to Chai's Weather Checker!
 Enter city name(e.g. London, Tokyo): Paris
@@ -31,7 +31,7 @@ Time                2025-07-18T18:30
 
 ---
 
-## 🛠️ Requirements
+##Requirements
 
 - Python 3.x
 - `requests`
