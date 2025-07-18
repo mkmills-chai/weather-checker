@@ -34,11 +34,11 @@ Time                2025-07-18T18:30
 ##Requirements
 
 - Python 3.x
-- 'requests`
-- `tabulate`
-- `geopy`
+- 'requests'
+- 'tabulate'
+- 'geopy'
 
 Install them using pip:
 
-```bash
+#bash
 pip install requests tabulate geopy
