@@ -34,7 +34,7 @@ Time                2025-07-18T18:30
 ##Requirements
 
 - Python 3.x
-- `requests`
+- 'requests`
 - `tabulate`
 - `geopy`
 
